@@ -15,6 +15,5 @@
     - { role: kosssi.gitconfig, tags: gitconfig, sudo: false }
     - { role: kosssi.apt, tags: apt }
     - { role: kosssi.phpstorm, tags: phpstorm }
-    - { role: kosssi.composer, tags: composer }
     - { role: ajsalminen.deb_get, tags: deb }
     - { role: ahmednuaman.nvm-ahmed, tags: nvm, sudo: false }
