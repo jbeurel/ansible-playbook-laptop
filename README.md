@@ -1,8 +1,6 @@
 ansible-playbook-laptop
 =======================
 
-[![Build Status](https://travis-ci.org/kosssi/ansible-playbook-laptop.svg?branch=master)](https://travis-ci.org/kosssi/ansible-playbook-laptop)
-
 Prerequits
 ----------
 
@@ -11,8 +9,10 @@ Prerequits
 Helper
 ------
 
-    mkdir -p ~/dev/perso; cd ~/dev/perso
-    git clone git@github.com:kosssi/ansible-playbook-laptop.git; cd ansible-playbook-laptop
+    mkdir -p ~/projects/provisioning
+    cd ~/projects/provisioning
+    git clone git@github.com:jbeurel/ansible-playbook-laptop.git
+    cd ansible-playbook-laptop
 
 Configure
 ---------
